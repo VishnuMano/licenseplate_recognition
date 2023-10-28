@@ -1,2 +1,2 @@
 # licenseplate_recognition
-A License Plate Recognition algorithm using TensorFlow and EasyOCR
+A 2-Step License Plate Recognition algorithm using TensorFlow and EasyOCR
